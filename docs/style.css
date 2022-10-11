@@ -155,5 +155,5 @@ nav.gallery a {
 }
 img.photo {max-width:1200px; width:80%; flex:3;}
 figcaption {
-    font:italic;
+    font:italic; color: orange;
 }
