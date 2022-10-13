@@ -150,6 +150,9 @@ section {
 h4.gallerytext {
     color:grey;
 }
+section.resume {
+    border:2px; border-style:solid; border-color:blue; padding:0; word-wrap: normal;
+}
 nav.gallery a {
     color:red;
 }
