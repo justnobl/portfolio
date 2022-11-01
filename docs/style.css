@@ -112,8 +112,9 @@ flex:9;
 color: white;
   
 }
-
-
+section.heading {
+  height: 100vh;
+}
 
 
 
