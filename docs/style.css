@@ -109,6 +109,7 @@ max-width:200px;
  nav > ul.menuB {
  list-style-type: none;
 flex:9;
+color: white;
   
 }
 
