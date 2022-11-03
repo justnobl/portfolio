@@ -113,8 +113,8 @@ color: white;
   
 }
 section.heading {
-  height: 50px;
-  line-height: 50px;
+  height: 100px;
+  line-height: 10px;
   border: 2px solid darkblue;
 }
 
